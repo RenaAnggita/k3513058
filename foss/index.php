@@ -1,6 +1,5 @@
 <?php
 //komentar satu
-//komentar dua
 /*
  *---------------------------------------------------------------
  * APPLICATION ENVIRONMENT
