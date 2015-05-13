@@ -1,11 +1,6 @@
 <?php
-	echo "Edit oleh K3513058";
-	echo "Hapus oleh K3513058";
-	echo "Diedit teman oleh K3513036";
-?>
-
-<?php
-
+//komentar satu
+//komentar dua
 /*
  *---------------------------------------------------------------
  * APPLICATION ENVIRONMENT
